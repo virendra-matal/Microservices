@@ -1,0 +1,10 @@
+server:
+  port: 8989
+
+spring:
+  application:
+    name: User-Service
+
+eureka:
+  instance:
+    hostname: localhost

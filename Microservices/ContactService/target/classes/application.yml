@@ -1,0 +1,10 @@
+server:
+  port: 8990
+
+spring:
+  application:
+    name: Contact-Service
+    
+eureka:
+  instance:
+    hostname: localhost
